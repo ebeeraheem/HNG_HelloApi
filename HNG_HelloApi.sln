@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HNG_HelloApi", "HNG_HelloApi\HNG_HelloApi.csproj", "{B4F3E971-CC98-4D5C-8102-27923D162DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F3E971-CC98-4D5C-8102-27923D162DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F3E971-CC98-4D5C-8102-27923D162DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F3E971-CC98-4D5C-8102-27923D162DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F3E971-CC98-4D5C-8102-27923D162DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718240B4-D755-4328-92C6-3B661B1D765D}
+	EndGlobalSection
+EndGlobal
